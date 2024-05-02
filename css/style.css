@@ -238,6 +238,14 @@ body {
     transition: .3s ease-in-out;
 }
 
+
+.projects_hover a{
+  list-style: none;
+  text-decoration-line: none;
+  text-decoration: none;
+  color: #fff;
+}
+
 .projects_item:hover  .projects_hover{
     transform: translateX(0%);
 }
